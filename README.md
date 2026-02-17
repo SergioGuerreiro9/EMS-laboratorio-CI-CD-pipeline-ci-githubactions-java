@@ -1,3 +1,5 @@
+[![Build and test of Java Proyect](https://github.com/SergioGuerreiro9/EMS-laboratorio-CI-CD-pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/SergioGuerreiro9/EMS-laboratorio-CI-CD-pipeline-ci-githubactions-java/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
